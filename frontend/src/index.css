@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .modern-card {
+    @apply bg-white dark:bg-gray-800 rounded-3xl shadow-xl overflow-hidden transition-all hover:shadow-2xl hover:-translate-y-1;
+  }
+}
