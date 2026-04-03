@@ -73,7 +73,7 @@ backend berjalan di port 8000
 frontend berjalan di port 5173
 pastikan backend sudah jalan sebelum menjalankan frontend
 
-DEVELOPER
-ADHITYABIMA 
-proyek ini di buat untuk mendukung ekonomi lokal muna
+# DEVELOPER : ADHITYABIMA 
+
+proyek ini di buat untuk mendukung ekonomi lokal muna. 
 made with ❤ FOR MUNA
